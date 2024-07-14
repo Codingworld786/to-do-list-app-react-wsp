@@ -1,39 +1,36 @@
-# To Do List App React (V1)
+# To Do List App (ReactJS)
 
-To Do List App React JS by WebStylePress (Add, Edit, Update, Delete, Toggle Tasks)
+![To Do List App Screenshot](https://github.com/Codingworld786/to-do-list-app-react-wsp/blob/main/todolist_app_ss.jpeg)
 
-## How to Use
+## Project Overview
 
-Clone or download repo
-NodeJS / NPM / Yarn should be installed in your PC
+This is a simple **To Do List App** built with **ReactJS**. The application allows users to add, update, delete, and mark tasks as completed. It utilizes **Bootstrap** for styling and includes features for managing a list of tasks effectively.
 
-Open terminal or Git for Windows (Git Bash)
-Run these commands:
+## Features
 
-### Install Dependencies
+- Add new tasks to your to-do list.
+- Update existing tasks.
+- Mark tasks as completed.
+- Delete tasks.
+- Responsive design using Bootstrap.
 
-yarn install
+## Technologies Used
 
-OR
+- **ReactJS**: JavaScript library for building user interfaces.
+- **Bootstrap**: CSS framework for responsive design.
+- **JavaScript ES6+**: Modern JavaScript features.
+- **CSS**: Custom styles for app layout and design.
 
-npm install
+## Installation
 
-### Run app
+To get started with the To Do List App, follow these steps:
 
-yarn start
+1. **Clone the Repository:**
 
-OR
+   ```bash
+   git clone https://github.com/Codingworld786/to-do-list-app-react-wsp.git
 
-npm start
+   **cd to-do-list-app-react-wsp**
+   npm install
+   npm start
 
-### YouTube Tutorial URL
-
-Title: To Do List App Project in ReactJS | Full React JS Project for Beginners from Scratch
-
-https://youtu.be/TmDNBEdHzVs
-
-### To Do List App React (V2) [Update]
-
-Tutorial: https://youtu.be/E2CWxv5hOso
-
-Code: https://github.com/webstylepress/To-Do-List-App-React-V2-
